@@ -19,12 +19,9 @@ You can swap the following available cryptocurrencies:
 
 | Cryptocurrencies                                                                                                                                                                                                                                               | Networks                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
-| <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/bitcoin.svg"> [Bitcoin](https://github.com/bitcoin/bitcoin) `BTC`                                                                           | `mainnet`, `testnet`                                |
-| <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/bytom.svg"> [Bytom v1.0](https://github.com/bytom/bytom) `BTM` - [More Assets](https://classic.blockmeta.com/assets)                        | `mainnet`, `solonet`, `testnet`                     |
+| <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/bitcoin.svg"> [Bitcoin](https://github.com/bitcoin/bitcoin) `BTC`                                                                           | `mainnet`, `testnet`                                |         
 | <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/ethereum.svg"> [Ethereum](https://github.com/ethereum/go-ethereum) `ETH`, `ERC20` - [More Tokens](https://etherscan.io/tokens)              | `mainnet`, `ropsten`, `kovan`, `rinkeby`, `testnet` |
-| <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/vapor.svg"> [Vapor](https://github.com/bytom/vapor) `BTM` - [More Assets](https://vapor.blockmeta.com/assets)                               | `mainnet`, `solonet`, `testnet`                     |
-| <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/xinfin.svg"> [XinFin](https://github.com/XinFinOrg/XDPoSChain) `XDC`, `XRC20` - [More Tokens](https://explorer.xinfin.network/tokens/xrc20) | `mainnet`, `apothem`, `testnet`                     |
-
+                   |
 ## What is a HTLC?
 
 A Hash Time Lock contract (HTLC) is essentially a type of payment in which two people
@@ -155,17 +152,6 @@ documentation and other tasks is highly appreciated and useful to the project.
 There are tasks for contributors of all experience levels.
 
 For more information, see the [CONTRIBUTING.md](https://github.com/meherett/swap/blob/master/CONTRIBUTING.md) file.
-
-## Donations
-
-If You found this tool helpful consider making a donation:
-
-| Coins                         | Addresses                                   |
-| ----------------------------- | :-----------------------------------------: |
-| Bitcoin `BTC`                 | 3GGNPvgbSpMHShcaZJGDXQn5wUJyTz7uoC          |
-| Ethereum `ETH`, Tether `USDT` | 0x342798bbe9731a91e0557fa8ab0bce1eae6d6ae3  |
-| Bytom `BTM`                   | bn1qumdsfgj06ae2nav2ws24t5jzmfagz2amj5arh3  |
-| XinFin `XDC`                  | xdc95e80fc8ef98b92fe71514168c2e4b8f0ce38169 |
 
 ## License
 
