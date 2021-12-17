@@ -21,7 +21,7 @@ You can swap the following available cryptocurrencies:
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
 | <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/bitcoin.svg"> [Bitcoin](https://github.com/bitcoin/bitcoin) `BTC`                                                                           | `mainnet`, `testnet`                                |         
 | <img align="left" height="25" src="https://raw.githubusercontent.com/movnetwork/swap/master/docs/static/svg/readme/ethereum.svg"> [Ethereum](https://github.com/ethereum/go-ethereum) `ETH`, `ERC20` - [More Tokens](https://etherscan.io/tokens)              | `mainnet`, `ropsten`, `kovan`, `rinkeby`, `testnet` |
-                   |
+                   
 ## What is a HTLC?
 
 A Hash Time Lock contract (HTLC) is essentially a type of payment in which two people
