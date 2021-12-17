@@ -102,12 +102,8 @@ For more read the [documentation](https://swap.readthedocs.io).
 | Hash Time Lock Contracts (HTLCs)       | Scripts                                                                                                           |
 |:-------------------------------------- |:----------------------------------------------------------------------------------------------------------------: |
 | Bitcoin: native BTC coin               | [htlc.script](https://github.com/movnetwork/swap/blob/master/swap/providers/bitcoin/contracts/htlc.script)        |
-| Bytom v1.0: native BTM and more assets | [htlc.equity](https://github.com/movnetwork/swap/blob/master/swap/providers/bytom/contracts/htlc.equity)          |
 | Ethereum: native ETH coin              | [htlc.sol](https://github.com/movnetwork/swap/blob/master/swap/providers/ethereum/contracts/htlc.sol)             |
 | Ethereum for ERC20 tokens              | [htlc-erc20.sol](https://github.com/movnetwork/swap/blob/master/swap/providers/ethereum/contracts/htlc-erc20.sol) |
-| Vapor: native BTM and more assets      | [htlc.equity](https://github.com/movnetwork/swap/blob/master/swap/providers/vapor/contracts/htlc.equity)          |
-| XinFin: native XDC coin                | [htlc.sol](https://github.com/movnetwork/swap/blob/master/swap/providers/xinfin/contracts/htlc.sol)               |
-| XinFin for XRC20 tokens                | [htlc-xrc20.sol](https://github.com/movnetwork/swap/blob/master/swap/providers/xinfin/contracts/htlc-xrc20.sol)   |
 
 ## Installation
 
